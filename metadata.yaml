@@ -1,0 +1,29 @@
+_repo: The-Transgression-of-Andrew-Vanea-novel_38020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carryl, Guy Wetmore
+    birthdate: 1873
+    deathdate: 1904
+    gutenberg_agent_id: '9039'
+    url: http://www.gutenberg.org/2009/agents/9039
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Paris (France) -- Fiction'
+title: 'The Transgression of Andrew Vane: A Novel'
+url: http://www.gutenberg.org/ebooks/38020
